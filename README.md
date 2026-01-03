@@ -1,5 +1,9 @@
 # 🔒 Web Security Analyzer
 
+<div align="center">
+  <img src="Resources/main.png" alt="Web Security Analyzer Logo" width="600">
+</div>
+
 A comprehensive Python-based web vulnerability scanner designed to identify security issues in web applications. This tool provides professional security testing capabilities with detailed HTML reporting.
 
 [![Python 3.7+](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/)
